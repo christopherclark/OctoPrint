@@ -223,7 +223,7 @@ default_settings = {
 			},
 			"disabled": {
 				"navbar": [],
-				"sidebar": [],
+				"sidebar": ["state"],
 				"tab": [],
 				"settings": [],
 				"usersettings": [],
